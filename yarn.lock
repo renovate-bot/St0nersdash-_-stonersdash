@@ -18331,10 +18331,10 @@ usb@^1.6.0:
     node-addon-api "^4.2.0"
     node-gyp-build "^4.3.0"
 
-use-breakpoint@^3.0.1:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/use-breakpoint/-/use-breakpoint-3.0.3.tgz#2d7760058d06f56f93aaff1c8fcdd864991b940a"
-  integrity sha512-p73F+NZjWNZM34mZwR7iC+he1qoejtWJt5F0+6+fEfxUgOxDaf6A5QmlwY/TgzUY2YvIObN1Hj4DbHZbORmgwQ==
+use-breakpoint@^4.0.0:
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/use-breakpoint/-/use-breakpoint-4.0.10.tgz#acace3452b0a43e8b9de5a83997260feb448cc2d"
+  integrity sha512-rnUpZwCQCTtexbpM8S5aiJrfIx6NTvt0WwATiH4hCBN6gQNgkYPFoFt6g/3pAuyqU9D9tLKwXfsVqEWMBnwo6A==
 
 use-deep-compare-effect@^1.8.1:
   version "1.8.1"
